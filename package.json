@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/UlisesAQT/Nucampsite-Project#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.4",
     "parcel": "^2.15.4"
   },
   "dependencies": {
